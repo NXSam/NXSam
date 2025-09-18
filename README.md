@@ -1,4 +1,4 @@
-## Hi there 👋
+![Header image, clouds on a night sky, with a plane, a gear logo/icon, in a vector art style](/img/HeaderImage.png)
 
 <!--
 **NXSam/NXSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
