@@ -25,7 +25,10 @@ I've spent the past decade taking on freelance work in video creation, animation
 
 You can check out my video work in my demo reel below. I'll be writing about my experiences at [HireThis.One](https://hirethis.one). 
 
+
+<div align="center"> 
 [![A youtube thumbnail showing a Gear/Moon loog with the letters SC, it's a link to a full youtube video.](https://img.youtube.com/vi/ulh004Hy_JM/0.jpg)](https://www.youtube.com/watch?v=ulh004Hy_JM)
+</div>
 
 
 
