@@ -53,7 +53,7 @@ I'm a Technical Artist/Creator making the pivot from a life in freelance animati
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-This should load some blog posts. If nothing shows, then something probably broke. Check beck later.
+This should load some blog posts. If nothing shows, then something probably broke. Check back later.
 <!-- BLOG-POST-LIST:END -->
 <br />
 
