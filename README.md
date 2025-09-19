@@ -1,8 +1,5 @@
 ![Header image, clouds on a night sky, with a plane, a gear logo/icon, in a vector art style](/img/HeaderImage.png)
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">Well, hello there!</div>  
@@ -56,9 +53,8 @@ I'm a Technical Artist/Creator making the pivot from a life in freelance animati
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+This should load some blog posts. If nothing shows, then something probably broke. Check beck later.
 <!-- BLOG-POST-LIST:END -->
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
