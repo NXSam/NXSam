@@ -17,10 +17,17 @@ I'm a Technical Artist/Creator making the pivot from a life in freelance animati
 - ❓ Ask me about 3D, VFX, Sci-fi, Writing  
   
 
-- ⚡ Fun fact: I love learning  
-  
-
 <br/>  
+
+## My Work
+
+I've spent the past decade taking on freelance work in video creation, animation, writing, development, product prototyping, graphic design, and anything I could figure out. Every day is a new opportunity to learn something new, solve a problem, and advance our skills and knowledge. My clients had problems and they knew I'd research or invent the means to solve them.
+
+You can check out my video work in my demo reel below. I'll be writing about my experiences at [HireThis.One](https://hirethis.one). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ulh004Hy_JM?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
 
 
 ## My Skill Set  
