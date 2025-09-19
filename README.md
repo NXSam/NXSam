@@ -64,8 +64,7 @@ You can check out my video work in my demo reel below. I'll be writing about my 
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-This should load some blog posts. If nothing shows, then something probably broke. Check back later.
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <br />
 
