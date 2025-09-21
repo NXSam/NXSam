@@ -5,6 +5,7 @@ on:
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   actions: write
+  contents: write
 
 jobs:
   update-readme-with-blog:
@@ -13,6 +14,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          repository: NXSam/NXSam
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@1.9.3
         with:
