@@ -65,6 +65,7 @@ You can check out my video work in my demo reel below. I'll be writing about my 
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Guide Update](https://hirethis.one/blog/guide-update-1/)
 - [That was EASY!?](https://hirethis.one/blog/cloudflare-workers/)
 - [Hello World! We&#39;re Finally Live!](https://hirethis.one/blog/hello-blog/)
 <!-- BLOG-POST-LIST:END -->
