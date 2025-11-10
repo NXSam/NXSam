@@ -65,11 +65,11 @@ You can check out my video work in my demo reel below. I'll be writing about my 
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Webring Readers!](https://hirethis.one/blog/webring/)
 - [A Little Resume-Tracker Update](https://hirethis.one/blog/resume-trackig-tool-ui/)
 - [Revising a Job Application](https://hirethis.one/blog/the-job-app-revision/)
 - [A Little Tracking in Job Applications](https://hirethis.one/blog/resume-tracking-tool/)
 - [MDX Support](https://hirethis.one/blog/guide-update-2/)
-- [Guide Update](https://hirethis.one/blog/guide-update-1/)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
