@@ -65,11 +65,11 @@ You can check out my video work in my demo reel below. I'll be writing about my 
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [What Have I Been Up To?](https://hirethis.one/blog/march26-update/)
 - [An AI Hesitant Tries It Out](https://hirethis.one/blog/i-tried-ai/)
 - [The AI Conundrum](https://hirethis.one/blog/ai-adoption/)
 - [Well - that sucked!](https://hirethis.one/blog/the-virus/)
 - [Welcome Webring Readers!](https://hirethis.one/blog/webring/)
-- [A Little Resume-Tracker Update](https://hirethis.one/blog/resume-trackig-tool-ui/)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
